@@ -1,0 +1,7 @@
+﻿x = 5;
+y = 6;
+if(x>y){
+Write("Greater than");
+}else {
+Write("Less than");
+}

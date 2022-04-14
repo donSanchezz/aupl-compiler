@@ -1,0 +1,6 @@
+﻿radius = 7.88;
+pi = 22.0 / 7.0;
+area = pi * radius * radius;
+Write("pi is" + " " + pi);
+Write("radius is" + " " + pi);
+Write("area is" + " " + area);

@@ -1,0 +1,6 @@
+C:\Users\Sanchez\Desktop\Aupl\Aupl\obj\Debug\net6.0-windows\AuplLexer.cs
+C:\Users\Sanchez\Desktop\Aupl\Aupl\obj\Debug\net6.0-windows\AuplParser.cs
+C:\Users\Sanchez\Desktop\Aupl\Aupl\obj\Debug\net6.0-windows\AuplListener.cs
+C:\Users\Sanchez\Desktop\Aupl\Aupl\obj\Debug\net6.0-windows\AuplBaseListener.cs
+C:\Users\Sanchez\Desktop\Aupl\Aupl\obj\Debug\net6.0-windows\AuplVisitor.cs
+C:\Users\Sanchez\Desktop\Aupl\Aupl\obj\Debug\net6.0-windows\AuplBaseVisitor.cs
